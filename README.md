@@ -34,7 +34,6 @@ VibeMind is an AI-augmented desktop assistant platform built on a neuroscience-i
 - [**flowzen**](https://github.com/Flissel/flowzen) -- Circadian intelligence layer for adaptive agent scheduling
 - [**DaveFelix-Coding-Engine**](https://github.com/Flissel/DaveFelix-Coding-Engine) -- AI-powered code generation engine
 - [**fahrdienst-app**](https://github.com/Flissel/fahrdienst-app) -- Full-stack transit platform (Next.js, AutoGen, 29-language i18n)
-- [**antisemitism-monitor**](https://github.com/Flissel/antisemitism-monitor) -- Social media monitoring for antisemitic deepfake content
 - [**Automation_ui**](https://github.com/Flissel/Automation_ui) -- Python UI for automating repetitive tasks and workflows
 
 ### Team
