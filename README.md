@@ -68,26 +68,16 @@ The Brain space (Tahlamus) contains custom-trained neural architectures -- not w
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
-### Core Repositories
+### My Repositories
 
-**Platform:**
-- [**VibeMind-VoiceDialog**](https://github.com/Flissel/VibeMind-VoiceDialog) -- Main orchestrator: voice interface, swarm backend, 3D multiverse UI
-- [**minibook**](https://github.com/Flissel/minibook) -- Central message bus for multi-agent collaboration
 - [**Coding_engine**](https://github.com/Flissel/Coding_engine) -- Society of Mind autonomous code generation (37+ agents, 18 MCP servers)
 - [**flowzen**](https://github.com/Flissel/flowzen) -- Circadian intelligence layer (Blaue Rose) for adaptive scheduling
-
-**Intelligence:**
-- [**MiroFish**](https://github.com/Flissel/MiroFish) -- Universal swarm intelligence prediction engine
-- [**openclaw**](https://github.com/Flissel/openclaw) -- Personal AI assistant, any OS, any platform
-- [**la_fungus_search**](https://github.com/Flissel/la_fungus_search) -- Semantic code search (FAISS, EmbeddingGemma, Streamlit)
-- [**Vibemind_Moire_Tracker**](https://github.com/Flissel/Vibemind_Moire_Tracker) -- Custom OCR-based UI automation via Moire patterns
-- [**openfang**](https://github.com/Flissel/openfang) -- Open-source Agent Operating System
-
-**Tools & Apps:**
-- [**Automation_ui**](https://github.com/Flissel/Automation_ui) -- Desktop automation with MoirE agent society
-- [**swe_desgine**](https://github.com/Flissel/swe_desgine) -- AI-Scientist pipeline + requirements engineering
-- [**ai-devkit**](https://github.com/Flissel/ai-devkit) -- CLI toolkit for AI-assisted development (Cursor + Claude Code)
+- [**Automation_ui**](https://github.com/Flissel/Automation_ui) -- Desktop automation with MoirE agent society (3 OCR engines, gRPC, WebRTC)
+- [**swe_desgine**](https://github.com/Flissel/swe_desgine) -- AI-Scientist pipeline + requirements engineering (automated paper generation, LLM review)
+- [**Vibemind_Moire_Tracker**](https://github.com/Flissel/Vibemind_Moire_Tracker) -- Custom OCR-based UI automation via Moiré patterns
+- [**la_fungus_search**](https://github.com/Flissel/la_fungus_search) -- Semantic code search (FAISS, EmbeddingGemma, BM25, Streamlit)
 - [**fahrdienst-app**](https://github.com/Flissel/fahrdienst-app) -- Full-stack transit platform (Next.js, AutoGen, 29-language i18n)
+- [**ai-devkit**](https://github.com/Flissel/ai-devkit) -- CLI toolkit for AI-assisted development (Cursor + Claude Code)
 
 ### Team
 
