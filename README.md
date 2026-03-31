@@ -70,6 +70,8 @@ The Brain space (Tahlamus) contains custom-trained neural architectures -- not w
 
 ### My Repositories
 
+- [**VibeMind-VoiceDialog**](https://github.com/Flissel/VibeMind-VoiceDialog) -- Voice-controlled AI workspace: 11 domain agents, OpenAI Realtime, Three.js 3D multiverse
+
 - [**Coding_engine**](https://github.com/Flissel/Coding_engine) -- Society of Mind autonomous code generation (37+ agents, 18 MCP servers)
 - [**flowzen**](https://github.com/Flissel/flowzen) -- Circadian intelligence layer (Blaue Rose) for adaptive scheduling
 - [**Automation_ui**](https://github.com/Flissel/Automation_ui) -- Desktop automation with MoirE agent society (3 OCR engines, gRPC, WebRTC)
